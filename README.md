@@ -29,6 +29,7 @@ The Customer Behavior Analysis Dashboard is a data analytics project developed u
 The Power BI dashboard presents customer transaction analysis and purchasing trends through interactive visualizations.
 
 To explore the dashboard, download the `.pbix` file from this repository and open it using Power BI Desktop.
+![Customer Behavior Analysis Dashboard](Screenshot 2026-10-28 151604.png)
 
 ## Key Learnings
 - Practical experience in data cleaning and preprocessing.
