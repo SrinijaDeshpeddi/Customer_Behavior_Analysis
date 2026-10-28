@@ -41,13 +41,7 @@ To explore the dashboard, download the `.pbix` file from this repository and ope
 ## Project Files
 - `Customer_Behavior_Dashboard.pbix` — Power BI dashboard.
 - `dashboard_screenshot.png` — Dashboard preview (if included).
-- `data_cleaning.py` — Python data-cleaning code (if included).
-- `analysis_queries.sql` — SQL queries (if included).
 
 ## Skills Demonstrated
 Python | Pandas | SQL | Power BI | Data Cleaning | Exploratory Data Analysis | Data Visualization
 
-## Author
-**Deshpeddi Srinija**
-
-*Data Analytics Project*
